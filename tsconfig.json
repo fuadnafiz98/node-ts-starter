@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "module": "commonjs",
+    "target": "es6",
+    "allowJs": true,
+    "checkJs": true,
+    "declaration": true,
+    // "noEmit": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    /* "isolatedModules": true, */
+    "skipLibCheck": true,
+    "outDir": "dist",     
+    "baseUrl": ".",
+    "moduleResolution": "node"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
