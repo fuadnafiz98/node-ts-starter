@@ -8,6 +8,6 @@
     "plugin:@typescript-eslint/recommended"
   ],
   "rules": {
-    "eslint@typescript-eslint/no-var-requires": false
+    "eslint@typescript-eslint/no-var-requires": 0
   }
 }
