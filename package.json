@@ -1,6 +1,6 @@
 {
-  "name": "typostgres",
-  "version": "1.0.0",
+  "name": "nodejs-starter",
+  "version": "1.0.1",
   "main": "dist/src/index.js",
   "license": "MIT",
   "scripts": {
